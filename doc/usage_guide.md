@@ -62,7 +62,7 @@ mssql-cli -S localhost -d AdventureWorks -U sa
 ### Exit mssql-cli 
 Press **Ctrl+D** or type:
 ```bash
-quit
+.quit
 ```
 
 ### Navigate multiple pages of query result
